@@ -1,10 +1,10 @@
 ---
 id: QC-1
-title: 음성 에이전트 전송 방식 — QUIC vs WebRTC vs WebSocket(가제)
+title: 음성 에이전트 전송 방식, 세 가지 선택지와 장단점 — QUIC의 잠재력(가제)
 topic: topics/quic-voice
 channel: 개인 계정(잠정)
 step: 1/8 주제 선정
-state: 성민님 확인 대기
+state: 성민님 확인 대기(2단계 시작 전)
 factcheck_1: 미실시
 factcheck_2: 미실시
 depends_on: []
@@ -12,13 +12,15 @@ updated: 2026-09-30
 ---
 
 ## 다음 할 일
-- 성민님 답변 받기: 각도(A/B/C), 범위(웹·앱 음성 채널 한정 여부), Raixact 실제 사용·측정 경험
-- 답변 후 2/8 자료 조사
+- 성민님 "다음" 후 2/8 자료 조사: 세 방식(WebSocket·WebRTC·QUIC) 장단점의 1차 출처 사실 + QUIC 잠재력 근거 + QUIC 한계(브라우저 지원·성숙도·UDP 차단 환경)
+- 아직 답 못 받음: 범위(웹·앱 음성 채널 한정 여부), Raixact 실제 사용·측정 경험, 쓰는 계기
 
 ## 메모
 - 단독 글(연재 아님). QC-0이 없으므로 topics/quic-voice/ 공통 파일은 이 대화(QC-1)가 관리한다.
 - 선행 콘텐츠 조사: topics/quic-voice/research.md
+- 확정 각도: 선택지별 장단점 정리(조건부 비교·저장형) + QUIC의 잠재적 효용을 조금 부각. QUIC 한계도 공정하게 다뤄야 설득력 유지.
 - 주의: 업계 주류 입장은 "WebRTC가 음성 AI 표준". "QUIC이 더 적합"은 성민님 주장(해석)으로 조건과 함께 써야 함.
 
 ## 이력
 - 2026-09-30 1/8 — 성민님이 주제 제시(QUIC이 WebRTC·WebSocket보다 음성 에이전트에 적합). 선행 콘텐츠 조사
+- 2026-09-30 1/8 — 각도 확정: 세 선택지 장단점 정리 + QUIC 잠재력 부각
