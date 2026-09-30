@@ -9,3 +9,4 @@
 | [TB-2](articles/TB-2/status.md) | 2편: 무너진 건 모델이 아니었다 | 개인 계정 | 4/8 구조 확정 | 대기 | 미실시 | 미실시 | TB-0 통과 후 뼈대 작성 |
 | [TB-3](articles/TB-3/status.md) | 3편: 다음 단계는 "사람과 함께" | 개인 계정 | 4/8 구조 확정 | 대기 | 미실시 | 미실시 | TB-0 통과 후 뼈대 작성, 데모 이야기 질문 |
 | [TB-C](articles/TB-C/status.md) | 요약 캐러셀 10장 | 회사페이지 | 4/8 구조 확정 | 대기 | 미실시 | 미실시 | TB-3 발행 주에 진행 |
+| [QC-1](articles/QC-1/status.md) | 음성 에이전트 전송 방식: QUIC vs WebRTC vs WebSocket(가제) | 개인 계정(잠정) | 1/8 주제 선정 | 확인 대기 | 미실시 | 미실시 | 각도·범위·Raixact 경험 답변 받기 |
